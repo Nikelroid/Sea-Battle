@@ -1,0 +1,364 @@
+2024-03-04 13:02:38.590 [main] INFO  com.java.lunch.Client - client started
+2024-03-04 13:02:38.593 [main] INFO  com.java.lunch.view - UI loaded
+2024-03-04 13:02:39.837 [JavaFX Application Thread] ERROR com.java.lunch.Client - error in client side
+2024-03-04 13:02:39.838 [JavaFX Application Thread] INFO  com.java.lunch.checkConnection - User was offline
+2024-03-04 13:12:36.091 [main] INFO  com.java.lunch.Client - client started
+2024-03-04 13:12:36.096 [main] INFO  com.java.lunch.view - UI loaded
+2024-03-04 13:12:37.221 [JavaFX Application Thread] ERROR com.java.lunch.Client - error in client side
+2024-03-04 13:12:37.221 [JavaFX Application Thread] INFO  com.java.lunch.checkConnection - User was offline
+2024-03-04 13:12:38.555 [JavaFX Application Thread] ERROR com.java.lunch.Client - error in client side
+2024-03-04 13:12:38.555 [JavaFX Application Thread] INFO  com.java.lunch.checkConnection - User was offline
+2024-03-04 13:12:39.122 [JavaFX Application Thread] ERROR com.java.lunch.Client - error in client side
+2024-03-04 13:12:39.122 [JavaFX Application Thread] INFO  com.java.lunch.checkConnection - User was offline
+2024-03-04 13:12:39.343 [JavaFX Application Thread] ERROR com.java.lunch.Client - error in client side
+2024-03-04 13:12:39.343 [JavaFX Application Thread] INFO  com.java.lunch.checkConnection - User was offline
+2024-03-04 13:12:39.584 [JavaFX Application Thread] ERROR com.java.lunch.Client - error in client side
+2024-03-04 13:12:39.585 [JavaFX Application Thread] INFO  com.java.lunch.checkConnection - User was offline
+2024-03-04 13:12:39.800 [JavaFX Application Thread] ERROR com.java.lunch.Client - error in client side
+2024-03-04 13:12:39.801 [JavaFX Application Thread] INFO  com.java.lunch.checkConnection - User was offline
+2024-03-04 13:12:39.955 [JavaFX Application Thread] ERROR com.java.lunch.Client - error in client side
+2024-03-04 13:12:39.956 [JavaFX Application Thread] INFO  com.java.lunch.checkConnection - User was offline
+2024-03-04 13:12:40.134 [JavaFX Application Thread] ERROR com.java.lunch.Client - error in client side
+2024-03-04 13:12:40.134 [JavaFX Application Thread] INFO  com.java.lunch.checkConnection - User was offline
+2024-03-04 13:12:40.324 [JavaFX Application Thread] ERROR com.java.lunch.Client - error in client side
+2024-03-04 13:12:40.324 [JavaFX Application Thread] INFO  com.java.lunch.checkConnection - User was offline
+2024-03-04 13:12:40.516 [JavaFX Application Thread] ERROR com.java.lunch.Client - error in client side
+2024-03-04 13:12:40.516 [JavaFX Application Thread] INFO  com.java.lunch.checkConnection - User was offline
+2024-03-04 13:12:40.700 [JavaFX Application Thread] ERROR com.java.lunch.Client - error in client side
+2024-03-04 13:12:40.700 [JavaFX Application Thread] INFO  com.java.lunch.checkConnection - User was offline
+2024-03-04 13:12:40.871 [JavaFX Application Thread] ERROR com.java.lunch.Client - error in client side
+2024-03-04 13:12:40.872 [JavaFX Application Thread] INFO  com.java.lunch.checkConnection - User was offline
+2024-03-04 13:15:41.492 [main] INFO  com.java.lunch.Client - client started
+2024-03-04 13:15:41.495 [main] INFO  com.java.lunch.view - UI loaded
+2024-03-04 13:15:55.313 [JavaFX Application Thread] INFO  com.java.menu.Login - user registered
+2024-03-04 13:15:57.391 [JavaFX Application Thread] INFO  com.java.menu.Login - user logged in
+2024-03-04 13:15:57.444 [JavaFX Application Thread] INFO  com.java.menu.checkInGame - user didnt have a game
+2024-03-04 13:16:36.701 [main] INFO  com.java.lunch.Client - client started
+2024-03-04 13:16:36.712 [main] INFO  com.java.lunch.view - UI loaded
+2024-03-04 13:17:08.751 [JavaFX Application Thread] INFO  com.java.menu.Login - user was online
+2024-03-04 13:18:37.469 [JavaFX Application Thread] INFO  com.java.menu.Login - user registered
+2024-03-04 13:18:38.977 [JavaFX Application Thread] INFO  com.java.menu.Login - user logged in
+2024-03-04 13:18:38.985 [JavaFX Application Thread] INFO  com.java.menu.checkInGame - user didnt have a game
+2024-03-04 13:20:44.661 [main] INFO  com.java.lunch.Client - client started
+2024-03-04 13:20:44.663 [main] INFO  com.java.lunch.view - UI loaded
+2024-03-04 13:20:49.836 [main] INFO  com.java.lunch.Client - client started
+2024-03-04 13:20:49.845 [main] INFO  com.java.lunch.view - UI loaded
+2024-03-04 13:21:00.079 [JavaFX Application Thread] INFO  com.java.menu.Login - user registered
+2024-03-04 13:21:00.658 [JavaFX Application Thread] INFO  com.java.menu.Login - user was online
+2024-03-04 13:21:03.236 [JavaFX Application Thread] INFO  com.java.menu.Login - user logged in
+2024-03-04 13:21:03.244 [JavaFX Application Thread] INFO  com.java.menu.checkInGame - user didnt have a game
+2024-03-04 13:21:15.914 [main] INFO  com.java.lunch.Client - client started
+2024-03-04 13:21:15.916 [main] INFO  com.java.lunch.view - UI loaded
+2024-03-04 13:21:21.469 [JavaFX Application Thread] INFO  com.java.menu.Login - username doesnt exist
+2024-03-04 13:21:22.017 [JavaFX Application Thread] INFO  com.java.menu.Login - user was online
+2024-03-04 13:21:24.220 [JavaFX Application Thread] INFO  com.java.menu.Login - user logged in
+2024-03-04 13:21:24.228 [JavaFX Application Thread] INFO  com.java.menu.checkInGame - user didnt have a game
+2024-03-04 13:21:26.780 [JavaFX Application Thread] INFO  com.java.menu.mainMenu - user started a game
+2024-03-04 13:21:38.671 [JavaFX Application Thread] INFO  com.java.menu.mainMenu - user go to status
+2024-03-04 13:21:38.772 [JavaFX Application Thread] INFO  com.java.options.status - status loaded
+2024-03-04 13:21:39.536 [JavaFX Application Thread] INFO  com.java.options.status - user backed from status
+2024-03-04 13:21:40.151 [JavaFX Application Thread] INFO  com.java.menu.mainMenu - user go to leader boeard
+2024-03-04 13:21:40.225 [Thread-3] INFO  com.java.options.LeaderBoard - leaderboeard changed
+2024-03-04 13:21:40.372 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.374 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.378 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.381 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.383 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.385 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.389 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.392 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.395 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.397 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.401 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.407 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.409 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.432 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.435 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.439 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.441 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.443 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:21:40.445 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:15.046 [JavaFX Application Thread] INFO  com.java.menu.mainMenu - user started a game
+2024-03-04 13:23:15.802 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground received
+2024-03-04 13:23:15.818 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.819 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.821 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.826 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground received
+2024-03-04 13:23:15.828 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.829 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.832 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.832 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.845 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.846 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.846 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.847 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.848 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.848 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.849 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.849 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.850 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.850 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.851 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.851 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:15.853 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:23:45.858 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - Ready for time out
+2024-03-04 13:23:45.864 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - Ready for time out
+2024-03-04 13:23:46.044 [JavaFX Application Thread] WARN  com.java.makingGame.Ready - user presserd back
+2024-03-04 13:23:46.305 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:23:46.319 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:23:47.735 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:23:47.747 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:23:48.086 [Thread-3] INFO  com.java.options.LeaderBoard - leaderboeard changed
+2024-03-04 13:23:48.089 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.093 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.095 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.096 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.098 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.100 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.101 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.103 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.104 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.106 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.108 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.110 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.111 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.113 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.114 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.116 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.118 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.119 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:23:48.121 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:47.767 [JavaFX Application Thread] ERROR com.java.game.playGame - Game ended, time out
+2024-03-04 13:24:47.781 [JavaFX Application Thread] INFO  com.java.game.Ended - Match 1364032389 has been ended
+2024-03-04 13:24:47.784 [JavaFX Application Thread] INFO  com.java.game.Ended - info loaded and submitted at end 
+2024-03-04 13:24:48.734 [Thread-3] INFO  com.java.options.LeaderBoard - leaderboeard changed
+2024-03-04 13:24:48.737 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.739 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.740 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.742 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.743 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.745 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.746 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.747 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.751 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.753 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.755 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.757 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.758 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.759 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.761 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.762 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.764 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.767 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:48.768 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:24:51.338 [JavaFX Application Thread] INFO  com.java.menu.mainMenu - user spactate a game
+2024-03-04 13:24:53.515 [JavaFX Application Thread] INFO  com.java.spectate.spectateList - user backed
+2024-03-04 13:25:07.631 [JavaFX Application Thread] INFO  com.java.menu.mainMenu - user started a game
+2024-03-04 13:25:09.646 [JavaFX Application Thread] INFO  com.java.menu.mainMenu - user started a game
+2024-03-04 13:25:10.191 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground received
+2024-03-04 13:25:10.192 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.193 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.194 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.195 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.196 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.197 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.198 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.198 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.199 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.200 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.258 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground received
+2024-03-04 13:25:10.260 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.261 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.262 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.263 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.264 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.264 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.265 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.266 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.267 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:25:10.267 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:28:01.901 [main] INFO  com.java.lunch.Client - client started
+2024-03-04 13:28:01.904 [main] INFO  com.java.lunch.view - UI loaded
+2024-03-04 13:28:05.837 [main] INFO  com.java.lunch.Client - client started
+2024-03-04 13:28:05.840 [main] INFO  com.java.lunch.view - UI loaded
+2024-03-04 13:28:10.391 [main] INFO  com.java.lunch.Client - client started
+2024-03-04 13:28:10.397 [main] INFO  com.java.lunch.view - UI loaded
+2024-03-04 13:28:11.165 [JavaFX Application Thread] INFO  com.java.menu.Login - user was online
+2024-03-04 13:28:13.906 [JavaFX Application Thread] INFO  com.java.menu.Login - user was online
+2024-03-04 13:28:18.605 [JavaFX Application Thread] INFO  com.java.menu.Login - user logged in
+2024-03-04 13:28:18.612 [JavaFX Application Thread] INFO  com.java.menu.checkInGame - user didnt have a game
+2024-03-04 13:28:32.746 [main] INFO  com.java.lunch.Client - client started
+2024-03-04 13:28:32.749 [main] INFO  com.java.lunch.view - UI loaded
+2024-03-04 13:28:45.780 [JavaFX Application Thread] INFO  com.java.menu.Login - user was online
+2024-03-04 13:28:55.115 [JavaFX Application Thread] INFO  com.java.menu.Login - user registered
+2024-03-04 13:28:57.999 [JavaFX Application Thread] INFO  com.java.menu.Login - user logged in
+2024-03-04 13:28:58.008 [JavaFX Application Thread] INFO  com.java.menu.checkInGame - user didnt have a game
+2024-03-04 13:29:03.174 [main] INFO  com.java.lunch.Client - client started
+2024-03-04 13:29:03.177 [main] INFO  com.java.lunch.view - UI loaded
+2024-03-04 13:29:27.259 [JavaFX Application Thread] INFO  com.java.menu.Login - info wasnt correct for login
+2024-03-04 13:29:30.364 [JavaFX Application Thread] INFO  com.java.menu.Login - username doesnt exist
+2024-03-04 13:29:49.228 [JavaFX Application Thread] INFO  com.java.menu.Login - user registered
+2024-03-04 13:29:49.673 [JavaFX Application Thread] INFO  com.java.menu.Login - user logged in
+2024-03-04 13:29:49.681 [JavaFX Application Thread] INFO  com.java.menu.checkInGame - user didnt have a game
+2024-03-04 13:29:57.116 [main] INFO  com.java.lunch.Client - client started
+2024-03-04 13:29:57.119 [main] INFO  com.java.lunch.view - UI loaded
+2024-03-04 13:30:03.312 [JavaFX Application Thread] INFO  com.java.menu.Login - user registered
+2024-03-04 13:30:05.608 [JavaFX Application Thread] INFO  com.java.menu.Login - user logged in
+2024-03-04 13:30:05.615 [JavaFX Application Thread] INFO  com.java.menu.checkInGame - user didnt have a game
+2024-03-04 13:30:09.728 [JavaFX Application Thread] INFO  com.java.menu.mainMenu - user started a game
+2024-03-04 13:30:13.999 [JavaFX Application Thread] INFO  com.java.menu.mainMenu - user started a game
+2024-03-04 13:30:14.545 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground received
+2024-03-04 13:30:14.548 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.550 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.551 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.553 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.555 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.556 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.558 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.558 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.559 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.560 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.626 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground received
+2024-03-04 13:30:14.629 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.630 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.632 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.633 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.634 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.635 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.636 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.637 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.639 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:14.640 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:22.341 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground received
+2024-03-04 13:30:22.342 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:22.343 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:22.344 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:22.346 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:22.347 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:22.349 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:22.349 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:22.350 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:22.351 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:22.353 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - new ground submitted
+2024-03-04 13:30:22.787 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - Ready clicked
+2024-03-04 13:30:24.307 [JavaFX Application Thread] INFO  com.java.makingGame.Arrangement - Ready clicked
+2024-03-04 13:30:24.321 [JavaFX Application Thread] WARN  com.java.makingGame.Ready - user presserd back
+2024-03-04 13:30:24.384 [JavaFX Application Thread] WARN  com.java.makingGame.Ready - user presserd back
+2024-03-04 13:30:24.569 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:30:24.578 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:30:24.620 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:30:24.630 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:30:26.799 [JavaFX Application Thread] INFO  com.java.menu.mainMenu - user spactate a game
+2024-03-04 13:30:26.803 [Thread-3] INFO  com.java.spectate.spectateList - list refreshed
+2024-03-04 13:30:39.320 [JavaFX Application Thread] TRACE com.java.game.playGameStructures - player shot
+2024-03-04 13:30:39.415 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:30:39.425 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:30:39.606 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:30:39.611 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:31:04.604 [JavaFX Application Thread] TRACE com.java.game.playGame - turn changed, time out
+2024-03-04 13:31:04.773 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:31:04.776 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:31:04.778 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:31:04.783 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:31:21.085 [JavaFX Application Thread] TRACE com.java.game.playGameStructures - player shot
+2024-03-04 13:31:21.235 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:31:21.249 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:31:21.324 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:31:21.332 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:31:23.522 [JavaFX Application Thread] TRACE com.java.game.playGameStructures - player shot
+2024-03-04 13:31:23.632 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:31:23.636 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:31:23.678 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:31:23.682 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:31:26.582 [JavaFX Application Thread] INFO  com.java.spectate.spectatePage - user backed to menu
+2024-03-04 13:31:32.802 [JavaFX Application Thread] INFO  com.java.menu.mainMenu - user go to status
+2024-03-04 13:31:32.838 [JavaFX Application Thread] INFO  com.java.options.status - status loaded
+2024-03-04 13:31:33.647 [JavaFX Application Thread] INFO  com.java.options.status - user backed from status
+2024-03-04 13:31:34.375 [JavaFX Application Thread] INFO  com.java.menu.mainMenu - user go to status
+2024-03-04 13:31:34.408 [JavaFX Application Thread] INFO  com.java.options.status - status loaded
+2024-03-04 13:31:35.118 [JavaFX Application Thread] INFO  com.java.options.status - user backed from status
+2024-03-04 13:31:36.310 [JavaFX Application Thread] INFO  com.java.menu.mainMenu - user go to leader boeard
+2024-03-04 13:31:36.317 [Thread-8] INFO  com.java.options.LeaderBoard - leaderboeard changed
+2024-03-04 13:31:36.359 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.361 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.363 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.365 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.366 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.369 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.371 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.373 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.382 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.384 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.387 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.388 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.390 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.391 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.393 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.395 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.397 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.398 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.401 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.403 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.404 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:36.406 [JavaFX Application Thread] INFO  com.java.options.LeaderBoard - userCard added
+2024-03-04 13:31:48.615 [JavaFX Application Thread] TRACE com.java.game.playGame - turn changed, time out
+2024-03-04 13:31:48.754 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:31:48.756 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:31:48.757 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:31:48.760 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:32:13.751 [JavaFX Application Thread] TRACE com.java.game.playGame - turn changed, time out
+2024-03-04 13:32:13.953 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:32:13.962 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:32:13.985 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:32:13.995 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:32:38.951 [JavaFX Application Thread] TRACE com.java.game.playGame - turn changed, time out
+2024-03-04 13:32:39.029 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:32:39.033 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:32:39.057 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:32:39.063 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:33:04.018 [JavaFX Application Thread] TRACE com.java.game.playGame - turn changed, time out
+2024-03-04 13:33:04.400 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:33:04.408 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:33:04.414 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:33:04.426 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:33:29.354 [JavaFX Application Thread] TRACE com.java.game.playGame - turn changed, time out
+2024-03-04 13:33:29.446 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:33:29.451 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:33:29.481 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:33:29.487 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:33:54.419 [JavaFX Application Thread] TRACE com.java.game.playGame - turn changed, time out
+2024-03-04 13:33:54.597 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:33:54.605 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:33:54.621 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:33:54.626 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:34:19.576 [JavaFX Application Thread] TRACE com.java.game.playGame - turn changed, time out
+2024-03-04 13:34:19.672 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:34:19.676 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:34:19.726 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:34:19.728 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:34:44.724 [JavaFX Application Thread] TRACE com.java.game.playGame - turn changed, time out
+2024-03-04 13:34:44.843 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:34:44.846 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:34:44.891 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:34:44.894 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:35:09.883 [JavaFX Application Thread] TRACE com.java.game.playGame - turn changed, time out
+2024-03-04 13:35:09.958 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:35:09.960 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:35:09.977 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:35:09.983 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:35:34.953 [JavaFX Application Thread] TRACE com.java.game.playGame - turn changed, time out
+2024-03-04 13:35:34.956 [JavaFX Application Thread] ERROR com.java.lunch.Client - error in client side
+2024-03-04 13:35:35.077 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:35:35.080 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:35:35.113 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:35:35.115 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:36:00.065 [JavaFX Application Thread] TRACE com.java.game.playGame - turn changed, time out
+2024-03-04 13:36:00.211 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:36:00.214 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:36:00.241 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:36:00.244 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:36:25.224 [JavaFX Application Thread] TRACE com.java.game.playGame - turn changed, time out
+2024-03-04 13:36:25.295 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:36:25.299 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
+2024-03-04 13:36:25.314 [JavaFX Application Thread] INFO  com.java.game.getGrounds - ground submitted
+2024-03-04 13:36:25.317 [JavaFX Application Thread] INFO  com.java.game.getGrounds - enemy ground submitted
