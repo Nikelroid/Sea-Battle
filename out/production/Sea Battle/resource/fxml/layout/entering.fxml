@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" styleClass="back-ground" stylesheets="@../../css/styles.css" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1">
+   <Button id="login" layoutX="164.0" layoutY="438.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="116.0" styleClass="button" stylesheets="@../../css/styles.css" text="Login" />
+   <Button id="register" layoutX="480.0" layoutY="438.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="137.0" styleClass="button" stylesheets="@../../css/styles.css" text="Register" />
+   <TextField id="username_login" layoutX="107.0" layoutY="174.0" prefHeight="36.0" prefWidth="229.0" promptText="Username" styleClass="text-field" stylesheets="@../../css/styles.css" />
+   <TextField id="username_register" layoutX="434.0" layoutY="174.0" prefHeight="36.0" prefWidth="229.0" promptText="Username" styleClass="text-field" stylesheets="@../../css/styles.css" />
+   <Label layoutX="246.0" layoutY="55.0" text="Sea battle" textFill="WHITE">
+      <font>
+         <Font name="G2 Rubber Stamp LET Plain" size="51.0" />
+      </font>
+   </Label>
+   <PasswordField id="password_login" layoutX="107.0" layoutY="253.0" prefHeight="38.0" prefWidth="229.0" promptText="password" />
+   <PasswordField id="password_register" layoutX="434.0" layoutY="253.0" prefHeight="38.0" prefWidth="229.0" promptText="Password" />
+   <PasswordField id="repassword_register" layoutX="434.0" layoutY="331.0" prefHeight="38.0" prefWidth="229.0" promptText="Confirm Password" />
+</AnchorPane>

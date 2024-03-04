@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="300.0" prefWidth="300.0" style="-fx-background-color: #3d4a25;" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label id="username" alignment="CENTER" contentDisplay="CENTER" layoutY="57.0" maxWidth="-Infinity" minWidth="-Infinity" prefHeight="26.0" prefWidth="300.0" text="Username" textAlignment="CENTER" textFill="WHITE" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font name="G2 Rubber Stamp LET Plain" size="20.0" />
+         </font></Label>
+      <Label id="wins" alignment="CENTER" contentDisplay="CENTER" layoutX="51.0" layoutY="92.0" maxWidth="-Infinity" minWidth="-Infinity" prefHeight="17.0" prefWidth="193.0" text="Wins:" textAlignment="CENTER" textFill="WHITE" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font name="G2 Rubber Stamp LET Plain" size="13.0" />
+         </font></Label>
+      <Label id="loses" alignment="CENTER" contentDisplay="CENTER" layoutX="50.0" layoutY="117.0" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="200.0" text="Loses:" textAlignment="CENTER" textFill="WHITE" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font name="G2 Rubber Stamp LET Plain" size="13.0" />
+         </font></Label>
+      <Label id="point" alignment="CENTER" contentDisplay="CENTER" layoutX="50.0" layoutY="141.0" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="200.0" text="Point:" textAlignment="CENTER" textFill="WHITE" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font name="G2 Rubber Stamp LET Plain" size="13.0" />
+         </font></Label>
+      <Button id="back" layoutX="107.0" layoutY="206.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="85.0" stylesheets="@../../css/styles.css" text="Back" />
+   </children>
+</AnchorPane>

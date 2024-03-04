@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="60.0" styleClass="back-ground" stylesheets="@../../css/card.css" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label id="username" layoutX="20.0" layoutY="10.0" text="USername" textFill="WHITE">
+         <font>
+            <Font name="G2 Rubber Stamp LET Plain" size="20.0" />
+         </font></Label>
+      <Label id="status" layoutX="20.0" layoutY="37.0" text="Status" textFill="WHITE">
+         <font>
+            <Font name="G2 Rubber Stamp LET Plain" size="8.0" />
+         </font>
+      </Label>
+      <Label id="point" alignment="CENTER_RIGHT" layoutX="166.0" layoutY="18.0" prefHeight="20.0" prefWidth="171.0" text="Point:" textAlignment="RIGHT" textFill="WHITE">
+         <font>
+            <Font name="G2 Rubber Stamp LET Plain" size="15.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

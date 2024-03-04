@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="74.0" prefWidth="388.0" styleClass="back-ground" stylesheets="@../../css/card.css" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Label id="username" layoutX="14.0" layoutY="26.0" text="user1 - user2" textFill="WHITE">
+            <font>
+                <Font name="G2 Rubber Stamp LET Plain" size="18.0" />
+            </font></Label>
+      <Button id="enter" layoutX="226.0" layoutY="12.0" mnemonicParsing="false" prefHeight="49.0" prefWidth="147.0" stylesheets="@../../css/styles.css" text="Spectate" />
+    </children>
+</AnchorPane>
