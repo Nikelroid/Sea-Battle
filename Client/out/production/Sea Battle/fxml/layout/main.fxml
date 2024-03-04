@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" styleClass="back-ground" stylesheets="@../../css/styles.css" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+     <Label layoutX="246.0" layoutY="55.0" text="Sea battle" textFill="WHITE">
+            <font>
+                <Font name="G2 Rubber Stamp LET Plain" size="51.0" />
+            </font></Label>
+      <Button id="start" layoutX="261.0" layoutY="169.0" mnemonicParsing="false" prefHeight="49.0" prefWidth="277.0" stylesheets="@../../css/styles.css" text="Start new game" />
+      <Button id="spectate" layoutX="260.0" layoutY="250.0" mnemonicParsing="false" prefHeight="49.0" prefWidth="277.0" stylesheets="@../../css/styles.css" text="Spectate a game" />
+      <Button id="stats" layoutX="263.0" layoutY="336.0" mnemonicParsing="false" prefHeight="49.0" prefWidth="271.0" stylesheets="@../../css/styles.css" text="Your statics" />
+      <Button id="leader_board" layoutX="264.0" layoutY="422.0" mnemonicParsing="false" prefHeight="49.0" prefWidth="271.0" stylesheets="@../../css/styles.css" text="Leader board" />
+      <Button id="quit" layoutX="264.0" layoutY="500.0" mnemonicParsing="false" prefHeight="49.0" prefWidth="271.0" stylesheets="@../../css/styles.css" text="Quit" />
+    </children>
+</AnchorPane>

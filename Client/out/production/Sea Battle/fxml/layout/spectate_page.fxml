@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="600.0" prefWidth="1000.0" styleClass="back-ground" stylesheets="@../../css/styles.css" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <ImageView fitHeight="408.0" fitWidth="408.0" layoutX="50.0" layoutY="130.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@../../png/grounds/ground.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="408.0" fitWidth="408.0" layoutX="540.0" layoutY="130.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@../../png/grounds/ground.png" />
+            </image>
+        </ImageView>
+        <Label id="time" layoutX="432.0" layoutY="97.0" text="25 SEconds" textFill="WHITE">
+            <font>
+                <Font name="G2 Rubber Stamp LET Plain" size="23.0" />
+            </font>
+        </Label>
+        <Label layoutX="444.0" layoutY="83.0" text="Time Remain:" textFill="WHITE">
+            <font>
+                <Font name="G2 Rubber Stamp LET Plain" size="16.0" />
+            </font>
+        </Label>
+        <Label id="user1" alignment="CENTER" contentDisplay="CENTER" layoutX="536.0" layoutY="31.0" prefHeight="26.0" prefWidth="408.0" text="USER1" textAlignment="CENTER" textFill="WHITE" textOverrun="CENTER_ELLIPSIS">
+            <font>
+                <Font name="G2 Rubber Stamp LET Plain" size="25.0" />
+            </font>
+        </Label>
+        <Label id="user2" alignment="CENTER" contentDisplay="CENTER" layoutX="50.0" layoutY="31.0" prefHeight="26.0" prefWidth="408.0" text="USER2" textAlignment="CENTER" textFill="WHITE" textOverrun="CENTER_ELLIPSIS">
+            <font>
+                <Font name="G2 Rubber Stamp LET Plain" size="25.0" />
+            </font>
+        </Label>
+        <ImageView id="move" fitHeight="131.0" fitWidth="88.0" layoutX="456.0" layoutY="272.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@../../png/pointers/r_pointer.png" />
+            </image>
+        </ImageView>
+        <Label id="shooted2" alignment="CENTER" layoutX="50.0" layoutY="74.0" prefHeight="20.0" prefWidth="408.0" text="Shooted: 0" textFill="WHITE">
+            <font>
+                <Font name="G2 Rubber Stamp LET Plain" size="15.0" />
+            </font>
+        </Label>
+        <Label id="shooted1" alignment="CENTER" contentDisplay="CENTER" layoutX="536.0" layoutY="74.0" prefHeight="20.0" prefWidth="408.0" text="Shooted: 0" textAlignment="CENTER" textFill="WHITE" textOverrun="CENTER_ELLIPSIS">
+            <font>
+                <Font name="G2 Rubber Stamp LET Plain" size="15.0" />
+            </font>
+        </Label>
+        <Label id="demolished2" alignment="CENTER" contentDisplay="CENTER" layoutX="50.0" layoutY="96.0" prefHeight="16.0" prefWidth="408.0" text="Demolished: 0" textFill="WHITE">
+            <font>
+                <Font name="G2 Rubber Stamp LET Plain" size="12.0" />
+            </font>
+        </Label>
+        <Label id="demolished1" alignment="CENTER" layoutX="538.0" layoutY="96.0" prefHeight="16.0" prefWidth="408.0" text="Demolished: 0" textFill="WHITE">
+            <font>
+                <Font name="G2 Rubber Stamp LET Plain" size="12.0" />
+            </font>
+        </Label>
+      <Button id="back" layoutX="432.0" layoutY="22.0" mnemonicParsing="false" prefHeight="49.0" prefWidth="136.0" text="Back" />
+    </children>
+</AnchorPane>

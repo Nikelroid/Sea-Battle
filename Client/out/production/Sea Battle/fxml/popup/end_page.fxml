@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" styleClass="back-ground" stylesheets="@../../css/styles.css" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label id="results" alignment="CENTER" layoutY="40.0" prefHeight="73.0" prefWidth="600.0" text="Results" textFill="WHITE">
+         <font>
+            <Font name="G2 Rubber Stamp LET Plain" size="58.0" />
+         </font></Label>
+      <Label id="user2" alignment="CENTER" layoutY="141.0" prefWidth="300.0" text="User2" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="G2 Rubber Stamp LET Plain" size="36.0" />
+         </font>
+      </Label>
+      <Label id="user1" alignment="CENTER" layoutX="300.0" layoutY="141.0" prefWidth="300.0" text="User1" textFill="WHITE">
+         <font>
+            <Font name="G2 Rubber Stamp LET Plain" size="36.0" />
+         </font>
+      </Label>
+      <Label id="shooted2" alignment="CENTER" layoutY="195.0" prefHeight="26.0" prefWidth="300.0" text="shooted2" textFill="WHITE">
+         <font>
+            <Font name="G2 Rubber Stamp LET Plain" size="20.0" />
+         </font>
+      </Label>
+      <Label id="demolished2" alignment="CENTER" layoutY="223.0" prefHeight="26.0" prefWidth="300.0" text="demolished2" textFill="WHITE">
+         <font>
+            <Font name="G2 Rubber Stamp LET Plain" size="20.0" />
+         </font>
+      </Label>
+      <Label id="shooted1" alignment="CENTER" layoutX="300.0" layoutY="195.0" prefWidth="300.0" text="shooted1" textFill="WHITE">
+         <font>
+            <Font name="G2 Rubber Stamp LET Plain" size="20.0" />
+         </font>
+      </Label>
+      <Label id="demolished1" alignment="CENTER" layoutX="300.0" layoutY="223.0" prefWidth="300.0" text="demolished1" textFill="WHITE">
+         <font>
+            <Font name="G2 Rubber Stamp LET Plain" size="20.0" />
+         </font>
+      </Label>
+      <Button id="back" layoutX="211.0" layoutY="292.0" mnemonicParsing="false" text="Back to menu" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="600.0" prefWidth="400.0" styleClass="back-ground" stylesheets="@../../css/styles.css" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label id="title" layoutX="34.0" layoutY="32.0" text="Leader Board" textFill="WHITE">
+         <font>
+            <Font name="G2 Rubber Stamp LET Plain" size="28.0" />
+         </font>
+      </Label>
+      <Button id="back" layoutX="293.0" layoutY="25.0" mnemonicParsing="false" text="Back" />
+      <ScrollPane id="scobar" layoutY="100.0" prefHeight="500.0" prefWidth="400.0" styleClass="back-ground" stylesheets="@../../css/scroll_pane.css">
+         <content>
+            <VBox id="leaderlist" prefHeight="498.0" prefWidth="398.0" styleClass="back-ground" stylesheets="@../../css/styles.css" />
+         </content>
+      </ScrollPane>
+   </children>
+</AnchorPane>
