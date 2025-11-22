@@ -30,7 +30,7 @@ This project separates game logic into a distinct **Server** and **Client**. The
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/nikelroid/sea-battle.git](https://github.com/nikelroid/sea-battle.git)
+    git clone https://github.com/nikelroid/sea-battle.git
     ```
 2.  **Import Project:** Open the project in your IDE. Ensure the project structure identifies both `Client` and `Server` modules.
 3.  **Dependencies:** Ensure the `lib` folder libraries (Log4j2, cfg4j, etc.) are added to your project's classpath.
