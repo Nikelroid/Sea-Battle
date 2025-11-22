@@ -1,9 +1,9 @@
 # Sea Battle (Battleship)
 
-![Java](https://img.shields.io/badge/Java-11%2B-orange.svg)
-![JavaFX](https://img.shields.io/badge/JavaFX-GUI-blue.svg)
-![Log4j2](https://img.shields.io/badge/Log4j-2.14%2B-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Java](https://img.shields.io/badge/Java-11%2B-orange?logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-GUI-blue?logo=javafx&logoColor=white)
+![Log4j2](https://img.shields.io/badge/Log4j2-2.14%2B-green?logo=apache&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow?logo=apache&logoColor=black)
 
 **Sea Battle** is a comprehensive multiplayer implementation of the classic strategy game Battleship. Built using **Java** and **JavaFX**, this project utilizes a client-server architecture to manage game states, user sessions, and real-time interactions. It features a modern GUI, configurable game logic, and support for spectating matches.
 
